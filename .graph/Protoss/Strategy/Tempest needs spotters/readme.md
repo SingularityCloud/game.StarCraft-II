@@ -10,8 +10,8 @@ Damage
 30 (+22 vs massive)
 60 (LotV campaign & Co-op)
 
-Targets
-Air
+Targets Air
+
 Cooldown
 3.3 (Versus)
 2.8 (LotV campaign & Co-op)
@@ -21,23 +21,16 @@ Range
 6 (LotV campaign)
 10 (Co-op)
 
-Upgrade/level
-+3/+2 vs massive (Versus) ￼
-+5 (LotV campaign & Co-op) ￼
-
 ## Resonance Coil
 Damage
 40 (+40 vs structures with Tectonic Destabilizers) (Versus)
 60 (LotV campaign & Co-op)
 
-Targets
-Ground
+Targets Ground
+
 Cooldown
 3.3 (Versus)
 2.8 (LotV campaign & Co-op)
 
 Range
 **10**
-Upgrade/level
-+4 (Versus) ￼
-+5 (LotV campaign and Co-op) ￼
